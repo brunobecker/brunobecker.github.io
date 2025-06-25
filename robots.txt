@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://becker-gptsieve.github.io/brunobecker.github.io/sitemap.xml
