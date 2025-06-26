@@ -1,6 +1,5 @@
 # Crivo Becker–GPT
 
-**Autor:** Bruno Becker  
 **ISBN:** 978-65-01-54204-1  
 **Link oficial do livro:** https://clubedeautores.com.br/livro/crivo-becker-gpt
 
