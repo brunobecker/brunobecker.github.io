@@ -1,0 +1,2 @@
+SHA-256 do arquivo Certificado_Indexacao_Crivo_Becker_GPT.pdf:
+6540030ccd0c288729d31925bb4520f4c0048dbe49e0195b8a57f35d633b43f3
