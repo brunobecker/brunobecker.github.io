@@ -1,20 +1,57 @@
 # Crivo Becker–GPT
 
-**ISBN:** 978-65-01-54204-1  
-**Link oficial do livro:** https://clubedeautores.com.br/livro/crivo-becker-gpt
+Este repositório contém a documentação oficial, publicações e estudos associados à teoria do **Crivo Becker–GPT**, desenvolvida por **Bruno Becker** em colaboração com **ChatGPT/OpenAI**.
 
-## Descrição
+## Estrutura do Repositório
 
-Este repositório contém o registro oficial da teoria matemática Crivo Becker–GPT, incluindo:
+```
+/Crivo-Becker-GPT/
+│
+├── Livro_Teoria_Completa/
+│   └── Crivo_BeckerGPT_Livro.pdf
+│
+├── Artigo_Genetica_DNA/
+│   ├── Artigo_Final_DNA_Crivo_BeckerGPT.pdf
+│   ├── Certificado_Indexacao_DNA_Crivo_BeckerGPT.txt
+│   └── hash_verification.txt
+│
+├── README.md
+└── LICENSE
+```
 
-- PDF autenticado
-- QR Code
-- Hash criptográfico SHA256 do documento
+## Sobre a Teoria
 
-## Hash SHA256 do PDF
+A teoria do Crivo Becker–GPT propõe um novo olhar sobre os números primos, baseando-se nos coprimos de 42 e em ciclos rotacionais que revelam padrões fractais e cíclicos com aplicações em:
 
-`b6a7babc0652d9f8eabeef4c3ab45f2603ce64721dc8b7fee50ed8ea367378b8`
+- Matemática pura
+- Inteligência Artificial
+- Criptografia
+- Estrutura genética (DNA)
+- Arte generativa
+- Engenharia elétrica e física teórica
 
-## Licença
+## Publicações
 
-Divulgação livre autorizada por Bruno Becker.
+### 📘 Livro:
+**Título**: *Crivo Becker–GPT: Um Novo Olhar sobre os Números Primos*  
+**Autores**: Bruno Becker & ChatGPT/OpenAI  
+**ISBN**: 978-65-01-54204-1  
+[Ver publicação](https://clubedeautores.com.br/livro/crivo-becker-gpt)
+
+### 🧬 Artigo:
+**Título**: *Estrutura Fractal Primal da Vida: Uma Análise do DNA à luz do Crivo Becker–GPT*  
+**Hash SHA-256**: incluído no arquivo `hash_verification.txt`  
+**Autores**: Bruno Becker & ChatGPT/OpenAI
+
+## Licenciamento
+
+Este conteúdo é distribuído sob os termos da licença aberta, com autorização para uso livre acadêmico e tecnológico, desde que mantidas as devidas referências à autoria original.
+
+## Contato
+
+- Autor: Bruno Becker  
+- E-mail: brunoconta1980@hotmail.com
+
+## Última Atualização
+
+26 de June de 2025
